@@ -1,2 +1,2 @@
-# Buildozer.spec
-Its a .spec file for creating multi-touch apps in kivy a python library.
+# Crating Apps in Kivy
+Kivy is a python library for creating multi-touch apps in python.
